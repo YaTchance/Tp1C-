@@ -15,3 +15,4 @@
     std::string getFullName(Person p) {
         return std::string (p.firstname() + " " + std::string(p.lastname()));
     };
+/*fqdlsqsfqdokf*/
